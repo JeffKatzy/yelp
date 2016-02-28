@@ -22,6 +22,7 @@ def initialize(customer, restaurant_name)
   @@restaurants << restaurant
 end
 
+# No need for class variables here.
 
 
 end
